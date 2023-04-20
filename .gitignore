@@ -1,0 +1,7 @@
+bin/
+.vscode/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
